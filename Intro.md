@@ -13,3 +13,7 @@ Hello potential viewer! My name is Josh Olsen. The following content is a walkth
 #### VLAN 666 — Attacker (Kali)
 ### Domain Controller (DC) — a Windows Server running Active Directory, DNS, and DHCP. The “identity” core — it manages users, logins, and network addresses.
 ### Windows client — a normal Windows 11 machine joined to the domain, like an employee’s PC. Lives on VLAN 20.
+
+# DISCLAIMER
+
+The documentation will be showcasing the overall steps to complete this lab, not a detailed how to. There is plenty of information on how to create a home lab and is relatively straihght forward. Again, this is mostly to showcase my own learning. 
