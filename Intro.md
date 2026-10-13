@@ -16,4 +16,4 @@ Hello potential viewer! My name is Josh Olsen. The following content is a walkth
 
 # DISCLAIMER
 
-The documentation will be showcasing the overall steps to complete this lab, not a detailed how to. There is plenty of information on how to create a home lab and is relatively straihght forward. Again, this is mostly to showcase my own learning. 
+The documentation will be showcasing the overall steps to complete this lab, not a detailed how to. There is plenty of information on how to create a home lab and is relatively straight forward. Again, this is mostly to showcase my own learning. 
