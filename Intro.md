@@ -5,7 +5,7 @@ Hello potential viewer! My name is Josh Olsen. The following content is a walkth
 # The pieces:
 
 ### Proxmox — the host. One physical box that runs everything else as virtual machines.
-### pfSense — the firewall/route. Sits between the internet and your lab, routes traffic between the different network segments, and enforces security rules about what can talk to what. This is the “guard at the front desk.”
+### pfSense — the firewall/route. Sits between the internet and your lab, routes traffic between the different network segments, and enforces security rules about what can talk to what.
 ### VLANs (the segments) — instead of one flat network, the lab is split into separate zones, each its own little network:
 #### VLAN 10 — Servers (where the domain controller lives)
 #### VLAN 20 — Users (where the Windows client lives)
